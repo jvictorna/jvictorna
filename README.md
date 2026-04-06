@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o João Adorno! 👋
 
-<!--
-**jvictorna/jvictorna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ADS no 1º semestre e entusiasta de tecnologia em transição de carreira. Atualmente, foco em aplicar lógica de programação para resolver desafios reais do setor de hotelaria.
 
-Here are some ideas to get you started:
+### 🚀 O que estou fazendo agora
+- 🏨 Desenvolvendo protótipos de sistemas de governança e gestão hoteleira.
+- 📚 Aprofundando em Lógica de Programação, Algoritmos e Git.
+- 📍 Baseado em Maragogi-AL, com foco no ecossistema tech de Recife-PE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Toolbox
+<div align="left">
+  <img src="https://img.shields.io/badge/Lógica-VisuAlg-blue?style=for-the-badge" alt="VisuAlg">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+### 📫 Vamos conectar?
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvictorna.dev@gmail.com)
