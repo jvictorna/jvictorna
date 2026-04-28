@@ -1,9 +1,11 @@
-# Olá, eu sou o João Adorno! 👋
-Estudante de ADS em transição de carreira, com foco em construir uma base sólida antes de entrar no mercado. Acredito que a melhor forma de aprender programação é resolvendo problemas reais — por isso desenvolvo projetos inspirados nos desafios operacionais da hotelaria onde trabalho.
+# Olá, eu sou o João Adôrno! 👋
+
+Estudante de ADS em transição de carreira, com foco em construir uma base sólida antes de entrar no mercado. Acredito que a melhor forma de aprender programação é resolvendo problemas reais — por isso desenvolvo projetos inspirados nos desafios operacionais da hotelaria onde trabalho, com sistema completo migrado de Portugol para Java.
 
 ## 🚀 O que estou fazendo agora
-- 🏨 Desenvolvendo um sistema de governança hoteleira — do protótipo em Portugol até a migração para Java com Orientação a Objetos.
-- ☕ Estudando Java com o curso do professor Gustavo Guanabara.
+
+- 🏨 Sistema de governança hoteleira migrado de Portugol para Java — iniciando refatoração com Orientação a Objetos.
+- ☕ Concluí Java Básico e estou iniciando Java POO com o professor Gustavo Guanabara.
 - 🎯 Construindo portfólio e base técnica para ingressar no mercado tech de Recife-PE.
 
 ### 🛠️ Toolbox
